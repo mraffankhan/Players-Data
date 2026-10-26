@@ -1,0 +1,24 @@
+{
+  "name": "esports-tournament-registration",
+  "version": "1.0.0",
+  "description": "Esports Tournament Team Registration Portal with Google Sheets & Drive Integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "esports",
+    "tournament",
+    "registration",
+    "google-sheets",
+    "google-drive"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
